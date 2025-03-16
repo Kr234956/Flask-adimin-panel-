@@ -1,0 +1,4 @@
+cd /path/to/your/flask-admin-panel
+git add .
+git commit -m "Added Flask app files"
+git push origin main
